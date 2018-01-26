@@ -48,3 +48,7 @@ Word.prototype.isLetterInWord = function(lett){
 }
 
 module.exports = Word;
+
+
+
+// To finish this project, I need to display the word properly after each guess, and log how many guesses the user has after each wrong guess.
